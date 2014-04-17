@@ -12,3 +12,12 @@ AutoCAD-SendCommand
 ===================
 
 Samples showing how SendCommand works in AutoCAD 2014 and 2015
+
+1. ADNLongbowDemo - 2014
+   ObjectARX sample that demos how SendCommand works in 2014
+
+2. ADNLongbowDemo - 2015
+   ObjectARX sample that demos how SendCommand works in 2015. The migration tip
+
+3. ADNLongbowCS
+   .NET sample that demos how to send command in 2015 in .NET
